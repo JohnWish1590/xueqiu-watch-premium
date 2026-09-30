@@ -6,7 +6,7 @@
 
 [打开产品介绍与购买页面](https://johnwish1590.github.io/xueqiu-watch-premium/) · [前往 Stripe 付款（¥28，一次性）](https://buy.stripe.com/9B68wO9zy5qmaXL7Hz4sE01)
 
-也可以在购买页扫码添加作者微信，直接转账购买。微信付款后，请把付款截图和收注册码的邮箱发送到 [cheung.cn@gmail.com](mailto:cheung.cn@gmail.com)。
+也可以在购买页扫描微信收款码，支付 ¥28 购买。微信付款后，请把付款截图和收注册码的邮箱发送到 [cheung.cn@gmail.com](mailto:cheung.cn@gmail.com)。
 
 ## 适合谁
 
